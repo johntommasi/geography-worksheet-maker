@@ -1,4 +1,4 @@
 interface:
   display_name: "高中地理教学材料制作"
-  short_description: "按教材与规范制作学案、限时练和 Markdown 教案"
-  default_prompt: "使用 $geography-worksheet-maker 制作或修改高中地理学案、限时练或教案；先给我填写制作前清单，确认后再开始。"
+  short_description: "按教材与固定 DOCX 模板制作地理学案和限时练"
+  default_prompt: "使用 $geography-worksheet-maker 制作或修改高中地理学案、限时练或教案；先给我预填选择式制作前清单，确认后再开始。"
