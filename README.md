@@ -21,6 +21,7 @@ npx skills add johntommasi/myskills --skill <技能目录名>
 | `geography-worksheet-maker` | 根据本地规范、教材和固定 DOCX 模板制作高中地理教学材料；支持学案、限时练、教案及教学记录表。 |
 | `find-skills` | 当需要扩展能力时，帮助 AI 在开放技能生态中查找、比较并安装合适的技能。 |
 | `grill-me` | 用系统化追问检验方案、决策或想法，厘清前提、约束、分支和成功标准。其内部触发名为 `grilling`。 |
+| `six-seat-council` | 通过战略、风险、逻辑、认知偏差、执行和伦理六个视角讨论议题，识别分歧并形成可行动建议；最终决定由用户作出。 |
 
 ## 给 AI 的安装说明
 
